@@ -1,0 +1,8 @@
+﻿  Boss.cpp
+  Designer.cpp
+  Employee.cpp
+  Programmer.cpp
+  Наследование.cpp
+C:\Users\79997\source\repos\Наследование\Наследование\Наследование.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Наследование.vcxproj -> C:\Users\79997\source\repos\Наследование\x64\Debug\Наследование.exe
